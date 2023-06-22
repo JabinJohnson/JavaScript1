@@ -1,6 +1,6 @@
-var firstName = Jabin;
+var firstName = "Jabin";
 
-var lastName = Johnson;
+var lastName = " Johnson";
 
 var age = 21;
 alert("My Name is " + firstName + lastName);
